@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="bulbasaur_name">電球</string>
+    <string name="charmander_name">魅惑的な</string>
+    <string name="squirtle_name">吸い口</string>
+    <string name="pikachu_name">ピカチュウ</string>
+    <string name="name_text_view">名:</string>
+    <string name="nickname_text_view">ニックネーム:</string>
+    <string name="level_text_view">レベル:</string>
+    <string name="previous_button_lbl">前</string>
+    <string name="next_button_lbl">次</string>
+    <string name="type_text_view">タイプ:</string>
+</resources>

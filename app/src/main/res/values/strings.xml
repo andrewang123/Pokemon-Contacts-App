@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">HW3</string>
+    <string name="bulbasaur_name">Bulbasaur</string>
+    <string name="charmander_name">Charmander</string>
+    <string name="squirtle_name">Squirtle</string>
+    <string name="pikachu_name">Pikachu</string>
+    <string name="name_text_view">Name:</string>
+    <string name="nickname_text_view">Nickname:</string>
+    <string name="level_text_view">Level:</string>
+    <string name="previous_button_lbl">Previous</string>
+    <string name="next_button_lbl">Next</string>
+    <string name="type_text_view">Type:</string>
+</resources>
